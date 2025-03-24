@@ -46,7 +46,8 @@ admin.site.register(Movie,MovieAdmin)
 
 ## OUTPUT
 
-![alt text](<Screenshot 2025-03-19 111447.png>)
+![image](https://github.com/user-attachments/assets/a936e5ce-b606-4641-a558-27969dd84389)
+
 
 ## RESULT
 Thus the program for creating movies database using ORM hass been executed successfully
